@@ -62,10 +62,11 @@
     </section>
 
     <!-- Projetos -->
-    <section>
-      <!-- Projetos -->
-      <div>
-
+    <section class="space-y-3 py-6">
+      <h2 class="text-2xl font-bold">Meus Projetos</h2>
+      <div class="bg-slate-800 rounded-lg p-3 flex items-center">
+        <div class="w-1/5">foto do projeto</div>
+        <div class="w-4/5">conteudo</div>
       </div>
     </section>
   </main>
