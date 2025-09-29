@@ -45,10 +45,18 @@
         <p>
           <!-- Links de redes sociais -->
         <ul class="flex gap-x-3 mt-3">
-          <li><a href="https://github.com/seuusuario" class="hover:underline">GitHub</a></li>
-          <li><a href="https://www.linkedin.com/in/seuusuario" class="hover:underline">LinkedIn</a></li>
-          <li><a href="https://www.instagram.com/seuusuario" class="hover:underline">Instagram</a></li>
-          <li><a href="https://twitter.com/seuusuario" class="hover:underline">Twitter</a></li>
+          <li><a href="https://github.com/seuusuario" class="hover:underline">
+              <img class="h-8 hover:animate-bounce" src="./assets/facebook.png" alt="facebook icone">
+            </a></li>
+          <li><a href="https://www.linkedin.com/in/seuusuario" class="hover:underline">
+              <img class="h-8 hover:animate-bounce" src="./assets/linkedin.png" alt="linkedin icone">
+            </a></li>
+          <li><a href="https://www.x.com/seuusuario" class="hover:underline">
+              <img class="h-8 hover:animate-bounce" src="./assets/twitter.png" alt="twitter icone">
+            </a></li>
+          <li><a href="https://youtube.com/seuusuario" class="hover:underline">
+              <img class="h-8 hover:animate-bounce" src="./assets/youtube.png" alt="youtube icone">
+            </a></li>
         </ul>
         </p>
       </div>
@@ -56,13 +64,13 @@
       <!-- Imagem -->
       <div class="w-1/3 flex items-center justify-center">
         <div>
-          foto
+          <img class="h-52" src="./assets/avatar.svg" alt="">
         </div>
       </div>
     </section>
 
     <!-- Projetos -->
-    <section class="space-y-3 py-6">
+    <section class="space-y-3 py-6" id="projetos">
       <h2 class="text-2xl font-bold">Meus Projetos</h2>
       <div class="bg-slate-800 rounded-lg p-3 flex items-center">
         <div class="w-1/5">foto do projeto</div>
