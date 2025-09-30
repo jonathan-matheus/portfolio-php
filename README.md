@@ -1,5 +1,7 @@
 # 💼 Portfólio Pessoal - PHP & Tailwind CSS
 
+!['Site'](./assets/site.png)
+
 Um portfólio pessoal moderno e responsivo desenvolvido em PHP puro com Tailwind CSS, apresentando projetos e habilidades de forma elegante e profissional.
 
 ## 🌟 Preview
@@ -133,10 +135,6 @@ npx @tailwindcss/cli -i ./src/input.css -o ./src/output.css
 3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
-
-## 📝 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
 ## Autor
 
